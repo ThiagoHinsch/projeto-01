@@ -1,0 +1,31 @@
+/*
+seletor{
+    propriedade:valor;
+}
+*/
+
+body{
+    background-color: #222831;
+    margin: 0;
+}
+
+div{
+    width: 400px; /*largura*/
+    height: 561px; /*altura*/
+    background-color: #EEEEEE;
+    margin-left: auto;
+}
+
+h1{
+    color:#393E46;
+    margin: 0;
+}
+
+h2{
+    color: #222831;
+    margin: 0;
+}
+
+p{
+    color: #666666;
+}
